@@ -7,6 +7,8 @@ task 1 chest_cancer_detection_report
 
 > Tool: Google Teachable Machine (Image) · Source dataset: Kaggle chest CT-scan dataset
 
+# Project Link : https://teachablemachine.withgoogle.com/models/QkMSQxkSR/
+
 ---
 
 ## 1. Project Overview
